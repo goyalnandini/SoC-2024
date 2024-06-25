@@ -1,0 +1,10 @@
+Week 2 assignment:
+Model 1
+https://colab.research.google.com/drive/1TECukyYYxRyWlhfR1rJXYbrSCKspaUeF?usp=sharing
+Model 2 
+https://colab.research.google.com/drive/11FFTHE3NqMW7kCoiAd-nknU7lY32dssg?usp=sharing
+Model 3
+https://colab.research.google.com/drive/1Bn0RuIrolSI8p1LRuCRYlBi-tezYnVZe?usp=sharing
+
+Week 3 assignment:
+https://colab.research.google.com/drive/1C_ubXGeEcO8njrTlgG3ObSB-JgzS96xn?usp=sharing
