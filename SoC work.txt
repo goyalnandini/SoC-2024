@@ -8,3 +8,6 @@ https://colab.research.google.com/drive/1Bn0RuIrolSI8p1LRuCRYlBi-tezYnVZe?usp=sh
 
 Week 3 assignment:
 https://colab.research.google.com/drive/1C_ubXGeEcO8njrTlgG3ObSB-JgzS96xn?usp=sharing
+
+Week 5 assignment:
+https://colab.research.google.com/drive/1LAKNFBUzOUAIGi0AyTGknuGE3xjLGBbT?usp=sharing
